@@ -1,0 +1,32 @@
+{
+  "name": "webpack_demo",
+  "description": "webpack&angular",
+  "main": "index.js",
+  "authors": [
+    "jerry"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "webpacl_demo"
+  ],
+  "homepage": "https://github.com/h330894169/webpack_demo",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4",
+    "fastclick": "^1.0.6",
+    "jquery": "1.9",
+    "jquery_lazyload": "jquery.lazyload#^1.9.7",
+    "ngInfiniteScroll": "^1.3.0",
+    "js-md5": "md5#^0.4.1",
+    "font-awesome": "^4.6.3",
+    "ng-infinite-scroll": "^0.0.1",
+    "Swiper": "swiper#^3.3.1"
+  }
+}
