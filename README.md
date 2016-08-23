@@ -31,3 +31,7 @@ webpack_demo
 如:index.html  入口js就是index.js
    abc.html  入口js就是abc.js
    
+   
+命令：
+使用 gulp watch 开发远程调试
+gulp watch -p 发布模式(加md5文件重命名，压缩)
